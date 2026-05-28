@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Nature Paper: Systems-Level Evidence for the Information Theory of Aging",
+    "source": "nature",
+    "url": "https://x.com/davidasinclair/status/2059740268237292003",
+    "date": "2026-05-25",
+    "summary": "Gladyshev lab analyzed ~11,000 cellular gene expression profiles, finding aging involves coordinated, partially reversible epigenetic changes. Introduced transcriptomic clocks outperforming chronological age.",
+    "category": "epigenetic",
+    "significance": "high"
+  },
+  {
+    "title": "Nasal EV Therapy Reverses Brain Aging in Mice",
+    "source": "journal",
+    "url": "https://x.com/i/status/2059667077854589153",
+    "date": "2026-05-26",
+    "summary": "Texas A&M: microRNA-loaded extracellular vesicles delivered nasally reduced neuroinflammation and restored memory in aged mice. Published in Journal of Extracellular Vesicles.",
+    "category": "research",
+    "significance": "high"
+  },
+  {
+    "title": "APOE2 Longevity Gene Enhances Neuronal DNA Repair",
+    "source": "journal",
+    "url": "https://x.com/i/status/2058233545093783651",
+    "date": "2026-05-24",
+    "summary": "The protective APOE2 variant improves neuronal DNA repair and confers resistance to cellular senescence. Adding APOE2 protein to APOE4 neurons reduced damage.",
+    "category": "research",
+    "significance": "high"
+  },
+  {
+    "title": "Retro Biosciences Hits $1.8B Valuation, Phase 1 Alzheimer's Trial Progressing",
+    "source": "news",
+    "url": "https://x.com/TimePieChina/status/2059648822117036118",
+    "date": "2026-05-27",
+    "summary": "Sam Altman-backed Retro Biosciences reached $1.8B valuation. Phase 1 Alzheimer's trial shows good safety; data expected August 2026.",
+    "category": "biotech",
+    "significance": "high"
+  },
+  {
+    "title": "Daewoong Pharma Acquires Turn Bio's Epigenetic Reprogramming Platform",
+    "source": "news",
+    "url": "https://x.com/davidasinclair/status/2059331247369810104",
+    "date": "2026-05-26",
+    "summary": "Korean pharma Daewoong acquired Turn Bio's reprogramming technology for aging-related disease R&D. Signals big pharma conviction in epigenetic reprogramming.",
+    "category": "biotech",
+    "significance": "high"
+  }
+]
